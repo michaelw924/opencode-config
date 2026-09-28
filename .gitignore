@@ -1,0 +1,13 @@
+# Ignore sensitive config files
+config.json
+config.jsonc
+
+# Ignore node dependencies
+node_modules/
+package.json
+package-lock.json
+bun.lock
+
+# Ignore backup files
+*.swp
+*.bak
